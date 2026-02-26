@@ -1,0 +1,11 @@
+server:
+  port: 8080
+
+spring:
+  data:
+    redis:
+      host: redis-14941.c270.us-east-1-3.ec2.cloud.redislabs.com
+      port: 14941
+      username: default
+      password: rzVu0uqCNFe1Rg8e2DQiOay2ZEJNVGpk
+      timeout: 5000
