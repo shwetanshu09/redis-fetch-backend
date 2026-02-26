@@ -11,7 +11,7 @@
 	<groupId>com.redis</groupId>
 	<artifactId>RedisDashboard</artifactId>
 	<version>0.0.1</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>RedisDashboard</name>
 	<description>Spring boot project to fetch data from Redis Cache</description>
 	<url/>
